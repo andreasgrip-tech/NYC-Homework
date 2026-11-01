@@ -24,4 +24,4 @@ if N % 2 == 0:
 #third step is to draw the Xmas tree using a for loop.
 for i in range(1, N + 1, 2):
     print(" " * ((N - i) // 2) + "*" * i) 
-    
+     
